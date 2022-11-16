@@ -38,3 +38,4 @@ let car = {
   fahrbar: true 
 
 };
+console.log(car);
